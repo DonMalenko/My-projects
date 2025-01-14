@@ -12,13 +12,17 @@ Welcome to my portfolio repository! Here, you'll find a collection of my hosted 
    - Description: A resolution game that solve dispute.
    - [View Project](https://resolution-game.netlify.app/)
   
-2. **Project 3**
+3. **Project 3**
    - Description: A multi-purple timer to monitor activities.
    - [View Project](https://multipurples-timer.netlify.app/)
   
-2. **Project 4**
+4. **Project 4**
    - Description: A Telemedicine application.
    - [View Project](https://telemedicineapp.netlify.app/)
+  
+5. **Project 4**
+   - Description: Brain test application.
+   - [View Project](https://brainretent.netlify.app/)
 
 ## Contact Me
 Feel free to reach out for collaborations or feedback!
