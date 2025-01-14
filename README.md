@@ -6,7 +6,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my hosted 
 
 1. **Project 1**
    - Description: My first static web application.
-   - [View Project]([https://project1.netlify.app](https://tindogoverview.netlify.app/))
+   - [View Project](https://tindogoverview.netlify.app/)
 
 2. **Project 2**
    - Description: A resolution game that solve dispute.
